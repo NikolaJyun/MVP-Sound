@@ -1,0 +1,48 @@
+{
+    "player.not.allowed": "{green}Gold KingZ {grey}| {darkred}MVP 選單僅限 {lime}VIP {darkred}使用",
+    "player.disabled.not.allowed": "{green}Gold KingZ {grey}| {darkred}禁用 MVP 音樂僅限 {lime}VIP {darkred}使用",
+    "player.not.allowed.musickit.flag": "{green}Gold KingZ {grey}| 此音樂包僅限 {darkred}VIP 使用",
+    "player.preview": "{green}Gold KingZ {grey}| 僅為您播放 {purple}{0}",
+    "player.musickit.selected": "{green}Gold KingZ {grey}| 您選擇了音樂包 {purple}{0}",
+    "player.musickit.disabled": "{green}Gold KingZ {grey}| MVP 音樂現已 {darkred}禁用",
+    "player.musickit.enabled": "{green}Gold KingZ {grey}| MVP 音樂現已 {lime}啟用",
+    "player.musickit.remove": "{green}Gold KingZ {grey}| 您的自定義 MVP 音效現已 {darkred}移除",
+
+    "now.playing.chat": "{green}Gold KingZ {grey}| {lightblue}{0} {grey} 是本場 MVP {nextline}{green}Gold KingZ {grey}| 正在播放 {purple}{1}",
+    "now.playing.centre": "<font color='purple'>{0} <font color='white'>是本場 MVP！ <br> <font color='white'>正在播放 <font color='green'>{1} </font>",
+    "now.playing.centre.bottom": "{0} 是本場 MVP！正在播放 {1}",
+
+    "MVP_1.now.playing.chat": "{green}Gold KingZ {grey}| {lightblue}{0} {grey} 是本場 MVP !!!!!!! {nextline}{green}Gold KingZ {grey}| 正在播放 {purple}{1}",
+    "MVP_1.now.playing.centre": "<font color='purple'>{0} <font color='white'>是本場 MVP！ <br> <img src='https://raw.githubusercontent.com/oqyh/cs2-MVP-Sounds-GoldKingZ/main/Resources/meandyou.gif' class=''> <br> <br> <font color='white'>正在播放 <font color='green'>{1} </font>",
+
+    "MVP_11.now.playing.chat": "{green}Gold KingZ {grey}| {lightblue}{0} {grey} 是本場 MVP !!!!!!! {nextline}{green}Gold KingZ {grey}| 正在播放 {purple}{1}",
+    "MVP_11.now.playing.centre": "<font color='purple'>{0} <font color='white'>是本場 MVP！ <br> <img src='https://raw.githubusercontent.com/oqyh/cs2-MVP-Sounds-GoldKingZ/main/Resources/meandyou.gif' class=''> <br> <br> <font color='white'>正在播放 <font color='green'>{1} </font>",
+
+    "MVP_12.now.playing.chat": "{green}Gold KingZ {grey}| {lightblue}{0} {grey} 是本場 MVP !!!!!!! {nextline}{green}Gold KingZ {grey}| 正在播放 {purple}{1}",
+    "MVP_12.now.playing.centre": "<font color='purple'>{0} <font color='white'>是本場 MVP！ <br> <img src='https://raw.githubusercontent.com/oqyh/cs2-MVP-Sounds-GoldKingZ/main/Resources/king.gif' class=''> <br> <br> <font color='white'>正在播放 <font color='green'>{1} </font>",
+
+    "MVP_13.now.playing.chat": "{green}Gold KingZ {grey}| {lightblue}{0} {grey} 是本場 MVP !!!!!!! {nextline}{green}Gold KingZ {grey}| 正在播放 {purple}{1}",
+    "MVP_13.now.playing.centre": "<font color='purple'>{0} <font color='white'>是本場 MVP！ <br> <img src='https://raw.githubusercontent.com/oqyh/cs2-MVP-Sounds-GoldKingZ/main/Resources/soldiers.gif' class=''> <br> <br> <font color='white'>正在播放 <font color='green'>{1} </font>",
+
+    "MVP_14.now.playing.chat": "{green}Gold KingZ {grey}| {lightblue}{0} {grey} 是本場 MVP !!!!!!! {nextline}{green}Gold KingZ {grey}| 正在播放 {purple}{1}",
+    "MVP_14.now.playing.centre": "<font color='purple'>{0} <font color='white'>是本場 MVP！ <br> <img src='https://raw.githubusercontent.com/oqyh/cs2-MVP-Sounds-GoldKingZ/main/Resources/melody.gif' class=''> <br> <br> <font color='white'>正在播放 <font color='green'>{1} </font>",
+
+    "MVP_15.now.playing.chat": "{green}Gold KingZ {grey}| {lightblue}{0} {grey} 是本場 MVP !!!!!!! {nextline}{green}Gold KingZ {grey}| 正在播放 {purple}{1}",
+    "MVP_15.now.playing.centre": "<font color='purple'>{0} <font color='white'>是本場 MVP！ <br> <img src='https://raw.githubusercontent.com/oqyh/cs2-MVP-Sounds-GoldKingZ/main/Resources/skull1.gif' class=''> <br> <br> <font color='white'>正在播放 <font color='green'>{1} </font>",
+
+    "MVP_16.now.playing.chat": "{green}Gold KingZ {grey}| {lightblue}{0} {grey} 是本場 MVP !!!!!!! {nextline}{green}Gold KingZ {grey}| 正在播放 {purple}{1}",
+    "MVP_16.now.playing.centre": "<font color='purple'>{0} <font color='white'>是本場 MVP！ <br> <img src='https://raw.githubusercontent.com/oqyh/cs2-MVP-Sounds-GoldKingZ/main/Resources/9mm.gif' class=''> <br> <br> <font color='white'>正在播放 <font color='green'>{1} </font>",
+
+    "MVP_17.now.playing.chat": "{green}Gold KingZ {grey}| {lightblue}{0} {grey} 是本場 MVP !!!!!!! {nextline}{green}Gold KingZ {grey}| 正在播放 {purple}{1}",
+    "MVP_17.now.playing.centre": "<font color='purple'>{0} <font color='white'>是本場 MVP！ <br> <img src='https://raw.githubusercontent.com/oqyh/cs2-MVP-Sounds-GoldKingZ/main/Resources/skull2.gif' class=''> <br> <br> <font color='white'>正在播放 <font color='green'>{1} </font>",
+    "MVP_17.now.playing.centre.bottom": "{0} 是本場 MVP！正在播放 {1}",
+
+    "menu.music": ".:[ 音樂選單 ]:.",
+    "menu.are.you.sure": "您確定要 [ {0} ] 嗎？",
+    "menu.answer.yes": "是",
+    "menu.answer.no": "否，先預覽",
+    "menu.back": "-> 返回",
+    "menu.disabled": "禁用所有 MVP 音效",
+    "menu.enabled": "啟用所有 MVP 音效",
+    "menu.remove": "移除您的自定義 MVP 音效"
+}
